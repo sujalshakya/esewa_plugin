@@ -1,0 +1,3 @@
+rootProject.name = 'esewa_plugin'
+include ':esewa_plugin'
+
